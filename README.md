@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pktheDev 😎
+- 👀 I’m interested in Software Development,
+- 🌱 I’m currently in learning process,
+- 💞️ I’m looking for some guidance,
+- 📫 Please mail the beginner material to pavanzmail@yahoo.com.
